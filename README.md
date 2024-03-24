@@ -1,6 +1,15 @@
 ### Hi,
 
-I'm a student at Noroff and study front-end development. I also work as a digital marketer. I have recently finished my first year. So far I have learned HTML, CSS and JavaScript. 
+I'm Line and come from Noway. Currently I'm a student at Noroff and study front-end development. I also work as a digital marketer. I have recently finished my first year, and so far I have learned HTML, CSS and JavaScript. 
+
+Skills:
+- HTML
+- CSS
+- JavaScript
+- Prototypes
+- Wireframes
+- Google Ads
+- Google Analytics
 
 <!--
 **Lines3/Lines3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
